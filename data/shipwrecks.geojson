@@ -1,0 +1,965 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bermuda",
+        "Year": 1870,
+        "Type": "Schooner",
+        "Type_of_Loss": "Storm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.64683333,
+          46.46483333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "George",
+        "Year": 1893,
+        "Type": "Schooner",
+        "Type_of_Loss": "Storm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.52083333,
+          46.516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Herman H. Hettler",
+        "Year": 1926,
+        "Type": "Propeller",
+        "Type_of_Loss": "Storm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.59966667,
+          46.48383333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kiowa",
+        "Year": 1929,
+        "Type": "Propeller",
+        "Type_of_Loss": "Storm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.22016667,
+          46.64516667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Manhattan",
+        "Year": 1903,
+        "Type": "Propeller",
+        "Type_of_Loss": "Storm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.60933333,
+          46.467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Smith Moore",
+        "Year": 1880,
+        "Type": "Steamer",
+        "Type_of_Loss": "Collision"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.61766667,
+          46.4555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Steven M. Selvick",
+        "Year": 1996,
+        "Type": "Tug",
+        "Type_of_Loss": "Intentional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.59783333,
+          46.49216667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Superior 5",
+        "Year": 1856,
+        "Type": "Sidewheeler",
+        "Type_of_Loss": "Collision"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.41516667,
+          46.5575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Agnes W.",
+        "Year": 1918,
+        "Type": "Steamer",
+        "Type_of_Loss": "Storm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.71431667,
+          45.92901667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Alice C.",
+        "Year": 0,
+        "Type": "Tug",
+        "Type_of_Loss": "Intentional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.89931667,
+          45.99963333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Delaware",
+        "Year": 1836,
+        "Type": "Steamer",
+        "Type_of_Loss": "Storm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.825,
+          45.99866667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "E.J. LaWay",
+        "Year": 1929,
+        "Type": "Steamer",
+        "Type_of_Loss": "Leak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7451,
+          46.10523333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "General",
+        "Year": 1930,
+        "Type": "Tug",
+        "Type_of_Loss": "Collision"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8972,
+          45.9872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "George H. Ely",
+        "Year": 1882,
+        "Type": "Schooner",
+        "Type_of_Loss": "Collision"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.90555,
+          45.9597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "J. C. Ford",
+        "Year": 1924,
+        "Type": "Steamer",
+        "Type_of_Loss": "Fire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.838,
+          46.0444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "John B. Merrill",
+        "Year": 1893,
+        "Type": "Schooner",
+        "Type_of_Loss": "Collision"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.73515,
+          45.9872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "John W. Cullen",
+        "Year": 1930,
+        "Type": "Steamer",
+        "Type_of_Loss": "Unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.89653333,
+          45.98918333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Monarch",
+        "Year": 1874,
+        "Type": "Barque",
+        "Type_of_Loss": "Collision"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.88336667,
+          45.96088333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mystery Barge",
+        "Year": 1927,
+        "Type": "Tug",
+        "Type_of_Loss": "Unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.82416667,
+          46.11638333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rome",
+        "Year": 1909,
+        "Type": "Steamer",
+        "Type_of_Loss": "Fire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.01271667,
+          46.08686667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sainte Marie",
+        "Year": 1928,
+        "Type": "Barge",
+        "Type_of_Loss": "Intentional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.89653333,
+          45.98918333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Silver Spray",
+        "Year": 1914,
+        "Type": "Tug",
+        "Type_of_Loss": "Intentional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.63203333,
+          45.94871667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Superior",
+        "Year": 1929,
+        "Type": "Steamer",
+        "Type_of_Loss": "Fire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.89851667,
+          45.99498333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Troy",
+        "Year": 1920,
+        "Type": "Schooner",
+        "Type_of_Loss": "Fire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.625,
+          45.95065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Two Myrtles",
+        "Year": 0,
+        "Type": "Steamer",
+        "Type_of_Loss": "Intentional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.89893333,
+          45.99925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "A.J. Rogers",
+        "Year": 1898,
+        "Type": "Schooner",
+        "Type_of_Loss": "Leak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.48026667,
+          45.05275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Elmwood",
+        "Year": 0,
+        "Type": "Tug",
+        "Type_of_Loss": "Intentional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63505,
+          44.78748333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Metropolis (Bow)",
+        "Year": 1886,
+        "Type": "Schooner",
+        "Type_of_Loss": "Collision"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.46575,
+          44.97045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Metropolis (Stern)",
+        "Year": 1886,
+        "Type": "Schooner",
+        "Type_of_Loss": "Collision"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.46386667,
+          44.97231667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Nyord",
+        "Year": 1970,
+        "Type": "Tug",
+        "Type_of_Loss": "Intentional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.60006667,
+          44.77333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tramp",
+        "Year": 1970,
+        "Type": "Tug",
+        "Type_of_Loss": "Intentional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6012,
+          44.85041667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Shale Scow",
+        "Year": 1903,
+        "Type": "Scow",
+        "Type_of_Loss": "Intentional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.42796667,
+          44.89303333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Yuba Wreck",
+        "Year": 1894,
+        "Type": "Schooner",
+        "Type_of_Loss": "Unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.46613333,
+          44.82693333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Algoma",
+        "Year": 1885,
+        "Type": "Steamer",
+        "Type_of_Loss": "Storm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.53891667,
+          48.10718333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "America",
+        "Year": 1928,
+        "Type": "Freighter",
+        "Type_of_Loss": "Collision"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.22241667,
+          47.8938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chester A. Congdon (Bow)",
+        "Year": 1918,
+        "Type": "Freighter",
+        "Type_of_Loss": "Storm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51358333,
+          48.19265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chester A. Congdon (Stern)",
+        "Year": 1918,
+        "Type": "Freighter",
+        "Type_of_Loss": "Storm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51468333,
+          48.19366667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chisholm (Engine)",
+        "Year": 1898,
+        "Type": "Freighter",
+        "Type_of_Loss": "Storm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.32993333,
+          47.8575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chisholm (Hull)",
+        "Year": 1898,
+        "Type": "Freighter",
+        "Type_of_Loss": "Storm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.32798333,
+          47.85765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "George M. Cox",
+        "Year": 1933,
+        "Type": "Steamer",
+        "Type_of_Loss": "Collision"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.32308333,
+          47.8577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cumberland",
+        "Year": 1877,
+        "Type": "Steamer",
+        "Type_of_Loss": "Leak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3275,
+          47.85775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Emperor (Stern)",
+        "Year": 1947,
+        "Type": "Freighter",
+        "Type_of_Loss": "Collision"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.49343333,
+          48.2003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Emperor (Bow)",
+        "Year": 1947,
+        "Type": "Freighter",
+        "Type_of_Loss": "Collision"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.49208333,
+          48.20005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Glenlyon",
+        "Year": 1924,
+        "Type": "Freighter",
+        "Type_of_Loss": "Collision"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.74706667,
+          47.95296667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kamloops (Stern)",
+        "Year": 1927,
+        "Type": "Freighter",
+        "Type_of_Loss": "Unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.76666667,
+          48.0853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kamloops (Bow)",
+        "Year": 1927,
+        "Type": "Freighter",
+        "Type_of_Loss": "Unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.76718333,
+          48.08535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Monarch",
+        "Year": 1906,
+        "Type": "Freighter",
+        "Type_of_Loss": "Collision"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.43261667,
+          48.1889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tug in Five Finger Bay",
+        "Year": 0,
+        "Type": "Tug",
+        "Type_of_Loss": "Unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.52171667,
+          48.15541667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "John Jacob Astor",
+        "Year": 1844,
+        "Type": "Brig",
+        "Type_of_Loss": "Collision"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.86466667,
+          47.47233333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "City of St. Joseph",
+        "Year": 1942,
+        "Type": "Barge",
+        "Type_of_Loss": "Collision"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1125,
+          47.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "City of Superior",
+        "Year": 1857,
+        "Type": "Freighter",
+        "Type_of_Loss": "Collision"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.85666667,
+          47.47166667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "John L. Gross",
+        "Year": 1873,
+        "Type": "Schooner",
+        "Type_of_Loss": "Collision"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.15516667,
+          47.45983333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Langham",
+        "Year": 1910,
+        "Type": "Steamer",
+        "Type_of_Loss": "Fire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9255,
+          47.37283333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Maplehurst",
+        "Year": 1922,
+        "Type": "Steamer",
+        "Type_of_Loss": "Storm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.63416667,
+          47.23183333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "USCGC Mesquite",
+        "Year": 1989,
+        "Type": "Mesquite",
+        "Type_of_Loss": "Intentional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.74216667,
+          47.39066667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "William C. Moreland",
+        "Year": 1910,
+        "Type": "Steamer",
+        "Type_of_Loss": "Collision"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.32666667,
+          47.41783333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "James Pickands",
+        "Year": 1894,
+        "Type": "Steamer",
+        "Type_of_Loss": "Collision"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.29883333,
+          47.4285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tioga",
+        "Year": 1919,
+        "Type": "Freighter",
+        "Type_of_Loss": "Storm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.27033333,
+          47.43766667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Transport",
+        "Year": 1942,
+        "Type": "Barge",
+        "Type_of_Loss": "Collision"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1125,
+          47.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wasaga",
+        "Year": 1910,
+        "Type": "Steamer",
+        "Type_of_Loss": "Fire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.88583333,
+          47.4695
+        ]
+      }
+    }
+  ]
+}

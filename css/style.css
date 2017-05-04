@@ -1,0 +1,39 @@
+/* Stylesheet by Bob Cowling, 2 017 */
+
+body {
+  background-color: #799ECA;
+}
+
+/*
+body {
+  padding-top: 50px;
+}
+*/
+
+.container-fluid, .row{
+  background-color: #799ECA;
+}
+.sidebar {
+  padding: 12px;
+  background-color: #799ECA;
+ outline-color: black;    
+}
+
+form {
+  padding-top: 12px;
+}
+
+#map {
+  height:100%;
+  position: absolute;
+  right:0;
+}
+
+.navbar navbar-inverse navbar-fixed-top {
+    color: black;
+}
+
+html {
+    background-color: #799ECA;
+}
+
