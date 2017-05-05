@@ -3579,3 +3579,8 @@ function clearFilters() {
     });
     return false;
 }
+
+//center the map
+L.easyButton('fa-crosshairs fa-lg', function(btn,map){
+     map.setView([45.2858536, -83.8419731], 6);
+}).addTo(map);
